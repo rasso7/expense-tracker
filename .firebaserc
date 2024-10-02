@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "testing-123-c16fc",
+    "staging": "expense-tracker-42373"
+  },
+  "targets": {},
+  "etags": {}
+}
